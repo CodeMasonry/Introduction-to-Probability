@@ -28,6 +28,5 @@ class Coin:
 def main():
     flip_one = Coin()
     flip_one.coinflip_variant_one(100000000)
-    #coinflip_variant_two()
 
 main()
